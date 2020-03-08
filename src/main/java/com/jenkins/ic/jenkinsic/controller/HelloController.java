@@ -19,6 +19,6 @@ public class HelloController {
 
     @RequestMapping("/diilxl")
     public String hello(){
-        return  "hello world quick1 ！11！";
+        return  "hello world quick1 ！@@@@1！";
     }
 }
